@@ -1,0 +1,9 @@
+name: pyalign-demo
+dependencies:
+  - python=3.8
+  - pip
+  - pip:
+      - bokeh==2.3.2
+      - ipywidgets==7.6.3
+      - pyalign==0.3
+      - tqdm==4.61.2
